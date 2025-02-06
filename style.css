@@ -1,0 +1,142 @@
+html {
+  background-color: purple;
+}
+body {
+  background-color: #6260d2;
+  text-align: center;
+  width: 600px;
+  padding: 30px, 75px;
+  margin: 0px, auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  align-self: center;
+  align-content: center;
+  margin-left: 500px;
+}
+#title {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  padding-top: 50px;
+}
+#buttons {
+  text-align: center;
+}
+#cso {
+  text-align: center;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#dicemenu {
+  text-align: center;
+  margin: auto;
+  padding: 10px;
+  font-size: 20px;
+}
+#roll {
+  text-align: center;
+  border-color: purple;
+  border-width: 2px;
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+  margin-right: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: purple;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#reset {
+  text-align: center;
+  border-color: purple;
+  border-width: 2px;
+  border-radius: 5px;
+  height: 50px;
+  width: 100px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: purple;
+  padding: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#roll:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+#reset:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+#images {
+  padding: 10px;
+  background-color: black;
+  width: 400px;
+  margin: 50px;
+  margin-left: 90px;
+  border: 2px solid purple;
+}
+img {
+  width: 150px;
+  transform: rotate(0);
+}
+#dicerolls {
+  padding: 10px;
+  width: 400px;
+  margin: 50px;
+  margin-left: 90px;
+  border: 2px solid purple;
+}
+hr {
+  width: 500px;
+}
+span {
+  border: 1px solid black;
+  padding: 3px;
+  margin: 3px;
+  display: inline-block;
+}
+#mathgame {
+  text-align: center;
+  border-color: purple;
+  border-width: 2px;
+  border-radius: 5px;
+  height: 75px;
+  width: 200px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: purple;
+  padding: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+}
+#mathgame:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+#dcr {
+  text-align: center;
+  border-color: purple;
+  border-width: 2px;
+  border-radius: 5px;
+  height: 60px;
+  width: 160px;
+  margin-left: 10px;
+  font-size: 20px;
+  color: white;
+  background-color: purple;
+  padding: auto;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  margin-top: 10px;
+}
+#dcr:hover {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
+.mystyle {
+  background-color: white;
+  color: purple;
+  cursor: pointer;
+}
